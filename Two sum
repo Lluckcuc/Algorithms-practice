@@ -1,0 +1,16 @@
+#include<stdio.h>
+int sum(int numb1,int numb2,int TwoNumberSum)
+{
+  TwoNumberSum=numb1+numb2;
+  return TwoNumberSum;
+}
+int main()
+{
+  int a,b;
+  int sum1;
+  printf("please input two numblrs");
+  scnaf("d%d%",&a,&b);
+  sum(a,,b,sum1);
+  printf("d%",sum1);
+  return 0;
+}
